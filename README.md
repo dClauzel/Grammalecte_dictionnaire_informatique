@@ -1,0 +1,2 @@
+# Grammalecte_dictionnaire_informatique
+Dictionnaire de termes informatique pour Grammalecte
